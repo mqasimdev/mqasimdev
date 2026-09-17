@@ -29,6 +29,6 @@ An AI-powered document analyzer and improver built with Python and FastAPI. It s
 
 - Email: [mqasimdev01@gmail.com](mailto:mqasimdev01@gmail.com)
 - LinkedIn: [linkedin.com/in/mqasimdev](https://linkedin.com/in/mqasimdev)
-- Portfolio: [mqasimdev.github.io](https://mqasimdev.github.io)
+- Portfolio: qasimdev.com
 
 Thanks for visiting. Feel free to explore my repositories and connect.
